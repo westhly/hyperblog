@@ -2,6 +2,10 @@ esta es la historia de su vida y obra maestra de westhly
 
 vive en valledupar-cesar
 
+<<<<<<< HEAD
 con Daniella XD
 
 tengo 24 años 
+=======
+mañana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
